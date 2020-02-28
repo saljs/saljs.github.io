@@ -83,11 +83,16 @@ th {
 
 div.container {
   display: flex;
-  flex-wrap: wrap;
 }
 div.container div.about {
   flex-grow: 1;
+  margin-right: 50px;
 }
 div.container div.content {
   flex-grow: 3;
+}
+@media only screen and (max-width: 775px) {
+    div.container {
+        flex-wrap: wrap;
+    }
 }
