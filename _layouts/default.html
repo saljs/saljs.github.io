@@ -11,7 +11,7 @@
         <div class="container">
             <div class="about">
                 <div class="profile-image">
-                    <img src="/imgs/profile.jpeg" width="300"/>
+                    <img src="/images/profile.jpeg" width="300"/>
                 </div>
                 <p class="site-description">
                     Personal website for Salvatore Skare.
@@ -21,7 +21,7 @@
                     <li><a href="https://github.com/saljs/">My GitHub Profile</a> (mainly personal projects)</li>
                     <li><a href="https://gitlab.com/saljs/">My GitLab Profile</a> (mainly academic projects)</li>
                     <li><a href="https://www.uwlax.edu/profile/sskare/">My University of Wisconsin-La Crosse profile page</a></li>
-                    {% for page in site.pages %}
+                    {% for page in site.posts %}
                     <li><a href="{{ page.url }}">page.title</a></li>
                     {% endfor %}
                 </ul>
