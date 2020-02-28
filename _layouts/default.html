@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+        <link href="https://fonts.googleapis.com/css?family=Noto+Sans|Ubuntu+Mono&display=swap" rel="stylesheet">
+        <meta charset="utf-8">
+        <meta name="description" content="{{ page.description }}" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="about">
+                <div class="profile-image">
+                    <img src="/imgs/profile.jpeg" width="300"/>
+                </div>
+                <p class="site-description">
+                    Personal website for Salvatore Skare.
+                </p>
+                <h3>Links</h3>
+                <ul class="links">
+                    <li><a href="https://github.com/saljs/">My GitHub Profile</a> (mainly personal projects)</li>
+                    <li><a href="https://gitlab.com/saljs/">My GitLab Profile</a> (mainly academic projects)</li>
+                    <li><a href="https://www.uwlax.edu/profile/sskare/">My University of Wisconsin-La Crosse profile page</a></li>
+                    {% for page in site.pages %}
+                    <li><a href="{{ page.url }}">page.title</a></li>
+                    {% endfor %}
+                </ul>
+                <h3>Contact me</h3>
+                <ul class="contact">
+                    <li>Current work email: <a href="mailto:sskare@uwlax.edu">sskare@uwlax.edu</a></li>
+                    <li>Personal email: <a href="mailto:salskare@gmail.com">salskare@gmail.com</a></li>
+                </ul>
+            </div>
+            <div class="content">
+                {{ content }}
+            </div>
+        </div>
+    </body>
+</html>
