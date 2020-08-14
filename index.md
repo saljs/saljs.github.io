@@ -24,4 +24,4 @@ herpetologist and enjoy keeping and talking to people about a wide variety of
 reptile species.
 
 ## Publications:
-* [Using a Recurrent Neural Network and Articulatory Synthesis to Accurately Model Speech Output]("http://www.ncurproceedings.org/ojs/index.php/NCUR2019/article/view/2895"){:target="_blank" rel="noopener"} Presented at the 2019 National Conference of Undergraduate Research conference.
+* [Using a Recurrent Neural Network and Articulatory Synthesis to Accurately Model Speech Output](http://www.ncurproceedings.org/ojs/index.php/NCUR2019/article/view/2895){:target="_blank" rel="noopener"} Presented at the 2019 National Conference of Undergraduate Research conference.
