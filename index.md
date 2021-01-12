@@ -23,5 +23,6 @@ time with my family. I also consider myself something of an amateur
 herpetologist and enjoy keeping and talking to people about a wide variety of
 reptile species.
 
-## Publications:
+## Publications and selected work:
 * [Using a Recurrent Neural Network and Articulatory Synthesis to Accurately Model Speech Output](http://www.ncurproceedings.org/ojs/index.php/NCUR2019/article/view/2895){:target="_blank" rel="noopener"} Presented at the 2019 National Conference of Undergraduate Research conference.
+* [Programmatically Interpretable Reinforcement Learning in a Robotics Domain](files/PIRL in a Robotics Domain.pdf)
