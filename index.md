@@ -10,7 +10,7 @@ Wisconsin - La Crosse, where I also received my Bachelor's degree in Computer
 Science in 2019. My professional interests include a wide range of topics within
 computer science, ranging from microcontrollers and robotics to distributed
 computing and machine learning. I've been creating software since 2012, and love
-learning about new technologies and new ways of thinking about writing code.
+learning about new technologies and new ways of thinking about and writing code.
 
 In my spare time I enjoy working on electronics projects or my homelab, reading,
 and spending time with my family. I also consider myself something of an amateur
