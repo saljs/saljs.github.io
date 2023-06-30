@@ -5,12 +5,13 @@ description: Personal website for Salvatore Skare, software developer
 ---
 
 ## About me:
-I am currently a full-stack web developer, working at the University of
-Wisconsin - La Crosse, where I also received my Bachelor's degree in Computer
-Science in 2019. My professional interests include a wide range of topics within
-computer science, ranging from microcontrollers and robotics to distributed
-computing and machine learning. I've been creating software since 2012, and love
-learning about new technologies and new ways of thinking about and writing code.
+I am currently a software research engineer, working at
+[GrammaTech](https://www.grammatech.com). I recieved my Bachelor's degree in
+Computer Science in 2019 from the University of Wisconsin - La Crosse. My
+professional interests include a wide range of topics within computer science,
+ranging from microcontrollers and robotics to distributed computing and machine
+learning. I've been creating software since 2012, and love learning about new
+technologies and new ways of thinking about and writing code.
 
 In my spare time I enjoy working on electronics projects or my homelab, reading,
 and spending time with my family. I also consider myself something of an amateur
