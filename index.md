@@ -5,8 +5,8 @@ description: Personal website for Salvatore Skare, software developer
 ---
 
 ## About me:
-I am currently a software research engineer, working at
-[GrammaTech](https://www.grammatech.com). I recieved my Bachelor's degree in
+I am a Software research engineer, who most recently worked at 
+[GrammaTech](https://www.grammatech.com). I received my Bachelor's degree in
 Computer Science in 2019 from the University of Wisconsin - La Crosse. My
 professional interests include a wide range of topics within computer science,
 ranging from microcontrollers and robotics to distributed computing and machine
