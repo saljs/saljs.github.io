@@ -85,6 +85,7 @@ div.container {
   display: flex;
 }
 div.container div.about {
+  width: 300px;
   margin-right: 50px;
   margin-bottom: 50px;
   padding: 20px;
