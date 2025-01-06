@@ -6,8 +6,8 @@ body {
  background-color:#fff;
  padding:50px;
  font:14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
- color:#727272;
- font-weight:400
+ color:#262730;
+ font-weight:400;
 }
 h1,
 h2,
@@ -15,8 +15,8 @@ h3,
 h4,
 h5,
 h6 {
- color:#222;
- margin:0 0 20px
+ color:#262730;
+ margin:0 0 10px 0;
 }
 p,
 ul,
@@ -24,18 +24,19 @@ ol,
 table,
 pre,
 dl {
- margin:0 0 20px
+ margin:0 0 20px;
 }
 h1,
 h2,
 h3 {
- line-height:1.1
+ line-height:1.1;
 }
 h1 {
- font-size:28px
+ font-size:28px;
 }
+h1,
 h2 {
- color:#393939
+ color:#D33F49;
 }
 h3,
 h4,
@@ -44,54 +45,55 @@ h6 {
  color:#494949
 }
 a {
- color:#267CB9;
- text-decoration:none
+ color:#D33F49;
 }
 a:hover,
 a:focus {
- color:#069;
+ color:#A6262E;
 }
 code,
 pre {
  font-family:'Ubuntu Mono', monospace;
- color:#333
+ color:#333;
 }
 pre {
  padding:8px 15px;
  background:#f8f8f8;
  border-radius:5px;
  border:1px solid #e5e5e5;
- overflow-x:auto
+ overflow-x:auto;
 }
 table {
  width:100%;
- border-collapse:collapse
+ border-collapse:collapse;
 }
 th,
 td {
  text-align:left;
  padding:5px 10px;
- border-bottom:1px solid #e5e5e5
+ border-bottom:1px solid #e5e5e5;
 }
 dt {
  color:#444;
- font-weight:700
+ font-weight:700;
 }
 th {
- color:#444
+ color:#444;
 }
 
 div.container {
   display: flex;
 }
 div.container div.about {
-  flex-grow: 1;
   margin-right: 50px;
+  margin-bottom: 50px;
+  padding: 20px;
+  background: #A4D2D2;
 }
 div.container div.content {
-  flex-grow: 3;
+  max-width: 800px;
 }
-@media only screen and (max-width: 775px) {
+@media only screen and (max-width: 1000px) {
     div.container {
         flex-wrap: wrap;
     }
